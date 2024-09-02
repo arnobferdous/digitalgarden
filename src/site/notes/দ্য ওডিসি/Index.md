@@ -3,9 +3,9 @@
 ---
 
 
-| Page | Title      | Excerpt                                                                                                                                                             |
-| ---- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | [[দ্য ওডিসি/Book I\|Book I]] | The gods in council—minerva’s visit to ithaca—the challenge from telemachus to the suitors.                                                                         |
-| 2    | Book II    | Assembly of the people of ithaca—speeches of telemachus and of the suitors—telemachus makes his preparations and starts for pylos with minerva disguised as mentor. |
-| 3    | Book III   | Telemachus visits nestor at pylos.                                                                                                                                  |
+| Page | Title                       | Excerpt                                                                                                                                                             |
+| ---- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | <a href="book-i">Book I</a> | The gods in council—minerva’s visit to ithaca—the challenge from telemachus to the suitors.                                                                         |
+| 2    | Book II                     | Assembly of the people of ithaca—speeches of telemachus and of the suitors—telemachus makes his preparations and starts for pylos with minerva disguised as mentor. |
+| 3    | Book III                    | Telemachus visits nestor at pylos.                                                                                                                                  |
 
